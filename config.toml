@@ -71,7 +71,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.portfolio]
         enable  = true
         title   = "LOCAL COMMUNITIES"
-        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+        subtitle= "Want to find some open science advocates near you? Check out some of our institutional communities."
 
     # Feature Product Section
     [params.feature]
