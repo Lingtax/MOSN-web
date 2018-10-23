@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
+    <loc>/blog/making-your-open-science-community/</loc>
+    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/a-new-year-a-new-posibility/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+    <loc>/blog/</loc>
+    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
   </url>
   
   <url>
@@ -43,20 +43,8 @@
   </url>
   
   <url>
-    <loc>/tags/inspiration/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/motivation/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -68,7 +56,6 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
     <priority>0</priority>
   </url>
   
