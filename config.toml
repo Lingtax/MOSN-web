@@ -25,10 +25,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         name    = "Blog"
         url     = "/blog"
         weight  = 3
-    [[menu.nav]]
-        name    = "Contact"
-        url     = "/contact"
-        weight  = 4
+    #[[menu.nav]]
+    #    name    = "Contact"
+    #    url     = "/contact"
+    #    weight  = 4
 
 # Site Params
 [params]
@@ -61,7 +61,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     # Call to Action
     [params.cta]
-        enable  = true
+        enable  = false
         title   = "Do you want to know more?"
         content = "Get in touch and help us grow this community further.</br>You might not be the only person in your institute, let us know so we can start linking you with people in your area."
         btnText = "Contact us"
