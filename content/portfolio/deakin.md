@@ -1,5 +1,5 @@
 ---
-title: "Deakin Open Research Community"
+title: "Deakin Open Research Network"
 type: portfolio
 date: 2018-07-12T16:54:54+06:00
 caption:
@@ -10,7 +10,7 @@ client:
 submitDate: October 23, 2018
 location: 
 ---
-### Deakin Open REsearch Community
+### Deakin Open Research Network
 
 Deakin University is a young university spread across 4 campuses, in Burwood, Geelong, and Warnambool. The open research community at Deakin is primarily located at the Burwood campus and is eager to know open research advocates in the local area. 
 
