@@ -22,8 +22,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     #    url     = "/gallery"
     #    weight  = 4
     [[menu.nav]]
-        name    = "Blog"
-        url     = "/blog"
+        name    = "Articles"
+        url     = "/articles"
         weight  = 3
     #[[menu.nav]]
     #    name    = "Contact"
@@ -40,8 +40,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.banner]
         enable  = true
         bgImage = "images/bg.jpg"
-        heading = "WELCOME TO THE MELBOURNE OPEN SCIENCE NETWORK"
-        description = "A hub for Open Science practitioners in Melbourne, Australia."
+        heading = "WELCOME TO THE MELBOURNE OPEN RESEARCH NETWORK"
+        description = "A hub for Open Research practitioners in Melbourne, Australia."
         #btn     = true
         #btnText = "Download More"
         #btnURL  = "https://themefisher.com/"
@@ -56,7 +56,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable  = true
         title   = "ABOUT THE NETWORK"
-        content = "Open Science is growing in Australia, but discovering Open science can feel like an isolating experience. This is a mechanism to promote open science and open practices in Victoria, to build a sense of community amongst people who might otherwise feel like the only open scientists they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open science."
+        content = "Open science and open research practices are growing in Australia, but discovering Open research can feel like an isolating experience. This is a mechanism to promote open science and open practices in Victoria, to build a sense of community amongst people who might otherwise feel like the only open researchers they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research."
         image   = "images/about/invert.png"
 
     # Call to Action
