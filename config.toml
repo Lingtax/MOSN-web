@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-uk"
-title = "Melbourne Open Science Network"
+title = "Melbourne Open Research Network"
 theme = "timer-hugo"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
