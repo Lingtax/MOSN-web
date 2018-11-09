@@ -5,7 +5,7 @@ date: 2018-07-12T16:54:54+06:00
 caption:
 image: images/portfolio/Deakin.jpg
 category: ["University","Burwood"]
-liveLink: https://twitter.com/lingtax
+liveLink: https://dorn.netlify.com
 client: 
 submitDate: October 23, 2018
 location: 
