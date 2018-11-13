@@ -68,4 +68,4 @@ If a community member engages in unacceptable behaviour, the community organizer
 
 
 
-
+This Code is adapted from the Open Source and Feelings and rOpenSci Codes of Conduct.
