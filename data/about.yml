@@ -12,12 +12,9 @@ aboutItem:
   - title : What is Open Research
     description: > 
       Open research is a term describing a variety of practices directed at maximising the transparency of research, and ultimately leading to maximisation of public goods. These include: Open Access Publication, Open Data, Open Methodology, Open Source Software, Open educational resources & Open peer review.
-      
-
-#  - title : Where should I start?
-#    description: > 
-#      Check if there is an open science community at your workplace, and if not, fill in the survey. We might be able to help you start one! 
-#
-#  - title : Meet The Energy
-#    description: > 
-#      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+  - title : Where should I start?
+    description: > 
+      Check if there is an open science community at your workplace, and if not, fill in the survey. We might be able to help you start one! 
+  - title : What is the logo?
+    description: > 
+      The logo represents a whole community, made up of individual actors, who stand back to back in support of each other. The circle is open to reflect our want to welcome new members. The Logo is black and white because... Melbourne. It is expected that new member communities will adapt this logo to their own colour schemes. 
