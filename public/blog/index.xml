@@ -11,25 +11,5 @@
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>A Vision for the Open Research Network</title>
-      <link>/blog/a-vision-for-the-open-research-network/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/a-vision-for-the-open-research-network/</guid>
-      <description>What are the goals of the Open Research Network? As per the about section, the open research network exists to support the adoption of open research practices. What differs from other approaches is that this is deliberately and explicitly about putting people in contact in the real world, to reduce the barriers to entry, and minimise the risk of alientation that arises from context collapse on social media.
-To that end, it aims to support the proliferation of institutional open science communities, like the successful model of the Open Science Community Utrecht, to provide a welcoming, non-judgemental learning environment at a local level.</description>
-    </item>
-    
-    <item>
-      <title>Making your open research community</title>
-      <link>/blog/making-your-open-research-community/</link>
-      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/making-your-open-research-community/</guid>
-      <description>The object of this network is the propagation of open research practices through local activities. Effectively, an open research community is like a nucleation site around which the snowflake (or pearl, whatever analogy you prefer) of open research develops. This network is like a snow machine (I&amp;rsquo;ve gone mad on analogies but stay with me), optimising the conditions for open practices to develop in your local area.
-To that end, this post intends to lay out how you can promote open research in your place of work and it borrows liberally from Loek Brinkman and Anita Eerland&amp;rsquo;s guide to forming the original Open science Community Utrecht.</description>
-    </item>
-    
   </channel>
 </rss>

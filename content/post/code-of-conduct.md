@@ -1,13 +1,11 @@
 ---
-title: "Interim Code of Conduct"
-author: "MORN steering committee"
-date: "13 November 2018"
-output: html_document
+title: Interim Code of Conduct
+author: ~
+date: '2018-11-16'
+slug: code-of-conduct
+categories: []
+tags: []
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Summary
 
