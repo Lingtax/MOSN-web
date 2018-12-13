@@ -3,11 +3,45 @@ title   : Network Steering Committee
 members  :
   - name  : Mathew Ling
     image : images/team/M_Ling_web.jpg
-    designation : Interim Co-ordinator
+    designation : Steering Committee Chair
     description : Mathew is a Lecturer in Psychology at Deakin University and is eager to share responsibility for MORN with other like minded radicals. 
     twitter     : https://www.twitter.com/lingtax
     linkedIn    : https://www.linkedin.com/in/mathew-ling-940a5497/
-
+  - name  : Tom Johnstone
+    designation : Steering Committee
+    description : Director of Neuroimaging at Swinburne University of Technology
+    linkedIn    : https://www.linkedin.com/in/tom-johnstone-083ab72/
+  - name  : Jennifer Beaudry
+    designation : Steering Committee
+    description : Senior Lecturer in the Department of Psychological Sciences, Swinburne University of Technology 
+  - name  : Nick Tierney
+    designation : Steering Committee
+    description : Research Fellow in Econometrics & Business Statistics at Monash University
+  - name  : Lauryn Hagg
+    designation : Steering Committee
+    description : PhD Student in the School of Psychology, Deakin University
+  - name  : Rick Skarbez
+    designation : Steering Committee
+    description : Lecturer in Interactive Visualisation at La Trobe University
+    linkedIn    : https://www.linkedin.com/in/rickskarbez/
+  - name  : Matthew Johnson
+    designation : Steering Committee
+    description : Senior Analyst at EPA Victoria
+    linkedIn    : https://www.linkedin.com/in/matthew-johnson-79530a104/
+  - name  : Saras Windecker
+    designation : Steering Committee
+    description : Postdoctoral Research Fellow with Quantitative and Applied Ecology Group University of Melbourne
+  - name  : Hannah Fraser
+    designation : Steering Committee
+    description : Postdoctoral Researcher working on reproducibility at University of Melbourne
+    linkedIn    : https://www.linkedin.com/in/hannah-fraser-241b2361/
+  - name  : Caitlin Yolland
+    designation : Steering Committee
+    description : PhD Student at Swinburne University of Technology
+    twitter    : https://twitter.com/cobyolland?lang=en
+  - name  : Felix Single Thorn
+    designation : Steering Committee
+    description : PhD Student at the University of Melbourne
   
 #  - name  : Jesmin Martina
 #    image : images/team/team-2.jpg
