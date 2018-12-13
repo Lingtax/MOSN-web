@@ -29,19 +29,26 @@ members  :
     description : Senior Analyst at EPA Victoria
     linkedIn    : https://www.linkedin.com/in/matthew-johnson-79530a104/
   - name  : Saras Windecker
+    image : images/team/Saras_400x400.jpg
     designation : Steering Committee
     description : Postdoctoral Research Fellow with Quantitative and Applied Ecology Group University of Melbourne
+    twitter     : https://twitter.com/smwindecker/
   - name  : Hannah Fraser
+    image : images/team/Hannah.jpeg
     designation : Steering Committee
     description : Postdoctoral Researcher working on reproducibility at University of Melbourne
     linkedIn    : https://www.linkedin.com/in/hannah-fraser-241b2361/
+    twitter     : https://twitter.com/HannahSFraser
   - name  : Caitlin Yolland
+    image : images/team/Caitlin.jpg
     designation : Steering Committee
     description : PhD Student at Swinburne University of Technology
     twitter    : https://twitter.com/cobyolland?lang=en
   - name  : Felix Single Thorn
+    image : images/team/Felix.jpg
     designation : Steering Committee
     description : PhD Student at the University of Melbourne
+    twitter     : https://twitter.com/FSingletonThorn
   
 #  - name  : Jesmin Martina
 #    image : images/team/team-2.jpg
