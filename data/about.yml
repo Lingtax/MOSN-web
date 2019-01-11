@@ -1,6 +1,7 @@
 enable  : true
 title   : What is the Open Research Network
 description: >
+
   The Melbourne Open Research Network is a collection of researchers and research-associated workers in Melbourne, Australia. It aims to facilitate the growth of Open practices by bringing together independently motivated and like-minded people, and providing a platform for the sharing of resources. 
   It is further supported by the Australia and New Zealand Open Research Network (ANZORN). 
   </br></br>
@@ -9,8 +10,7 @@ description: >
   <a href="https://groups.google.com/forum/#!forum/melb-open-research">join the mailing list</a>, 
   come along to an event, and find out. 
     You can also <a href="http://eepurl.com/gat7QH">join the ANZORN mailing list and Slack</a>. 
-  </br>
-  MORN is inspired by the <a href="https://openscience-utrecht.com/">Open Science Community Utrecht</a>.  
+  
   
 image   : images/about/mosn_sites.png
 aboutItem:
