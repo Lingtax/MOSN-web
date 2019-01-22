@@ -7,27 +7,6 @@ members  :
     description : Mathew is a Lecturer in Psychology at Deakin University and is eager to share responsibility for MORN with other like minded radicals. 
     twitter     : https://www.twitter.com/lingtax
     linkedIn    : https://www.linkedin.com/in/mathew-ling-940a5497/
-  - name  : Tom Johnstone
-    designation : Steering Committee
-    description : Director of Neuroimaging at Swinburne University of Technology
-    linkedIn    : https://www.linkedin.com/in/tom-johnstone-083ab72/
-  - name  : Jennifer Beaudry
-    designation : Steering Committee
-    description : Senior Lecturer in the Department of Psychological Sciences, Swinburne University of Technology 
-  - name  : Nick Tierney
-    designation : Steering Committee
-    description : Research Fellow in Econometrics & Business Statistics at Monash University
-  - name  : Lauryn Hagg
-    designation : Steering Committee
-    description : PhD Student in the School of Psychology, Deakin University
-  - name  : Rick Skarbez
-    designation : Steering Committee
-    description : Lecturer in Interactive Visualisation at La Trobe University
-    linkedIn    : https://www.linkedin.com/in/rickskarbez/
-  - name  : Matthew Johnson
-    designation : Steering Committee
-    description : Senior Analyst at EPA Victoria
-    linkedIn    : https://www.linkedin.com/in/matthew-johnson-79530a104/
   - name  : Saras Windecker
     image : images/team/Saras_400x400.jpg
     designation : Steering Committee
@@ -43,12 +22,42 @@ members  :
     image : images/team/Caitlin.jpg
     designation : Steering Committee
     description : PhD Student at Swinburne University of Technology
-    twitter    : https://twitter.com/cobyolland?lang=en
+    twitter    : https://twitter.com/cobyolland
   - name  : Felix Single Thorn
     image : images/team/Felix.jpg
     designation : Steering Committee
     description : PhD Student at the University of Melbourne
-    twitter     : https://twitter.com/FSingletonThorn
+    twitter     : https://twitter.com/FSingletonThorn    
+  - name  : Tom Johnstone
+    designation : Steering Committee
+    description : Director of Neuroimaging at Swinburne University of Technology
+    linkedIn    : https://www.linkedin.com/in/tom-johnstone-083ab72/
+    twitter     : https://twitter.com/itjohnstone
+  - name  : Jennifer Beaudry
+    designation : Steering Committee
+    description : Senior Lecturer in the Department of Psychological Sciences, Swinburne University of Technology 
+    twitter     : https://twitter.com/drjbeaudry 
+  - name  : Nick Tierney
+    designation : Steering Committee
+    description : Research Fellow in Econometrics & Business Statistics at Monash University
+    twitter     : https://twitter.com/nj_tierney 
+  - name  : Lauryn Hagg
+    designation : Steering Committee
+    description : PhD Student in the School of Psychology, Deakin University
+    twitter     : https://twitter.com/LaurynHagg
+  - name  : Rick Skarbez
+    designation : Steering Committee
+    description : Lecturer in Interactive Visualisation at La Trobe University
+    linkedIn    : https://www.linkedin.com/in/rickskarbez/
+  - name  : Matthew Johnson
+    designation : Steering Committee
+    description : Senior Analyst at EPA Victoria
+    linkedIn    : https://www.linkedin.com/in/matthew-johnson-79530a104/
+    twitter     : https://twitter.com/mrjoh3/
+  - name  : Jaye Weatherburn
+    designation : Steering Committee
+    description : Data Stewardship Coordinator at The University of Melbourne
+    twitter     : https://twitter.com/jayechats
   
 #  - name  : Jesmin Martina
 #    image : images/team/team-2.jpg
