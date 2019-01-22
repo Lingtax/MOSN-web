@@ -28,6 +28,12 @@ members  :
     designation : Steering Committee
     description : PhD Student at the University of Melbourne
     twitter     : https://twitter.com/FSingletonThorn    
+  - name  : Rick Skarbez
+    image : images/team/RichardSkarbez2.jpg
+    designation : Steering Committee
+    description : Lecturer in Interactive Visualisation at La Trobe University
+    linkedIn    : https://www.linkedin.com/in/rickskarbez/
+    twitter     : https://twitter.com/RickSkarbez_LTU    
   - name  : Tom Johnstone
     designation : Steering Committee
     description : Director of Neuroimaging at Swinburne University of Technology
@@ -45,10 +51,6 @@ members  :
     designation : Steering Committee
     description : PhD Student in the School of Psychology, Deakin University
     twitter     : https://twitter.com/LaurynHagg
-  - name  : Rick Skarbez
-    designation : Steering Committee
-    description : Lecturer in Interactive Visualisation at La Trobe University
-    linkedIn    : https://www.linkedin.com/in/rickskarbez/
   - name  : Matthew Johnson
     designation : Steering Committee
     description : Senior Analyst at EPA Victoria
