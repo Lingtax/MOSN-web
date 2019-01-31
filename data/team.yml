@@ -33,24 +33,27 @@ members  :
     designation : Steering Committee
     description : Lecturer in Interactive Visualisation at La Trobe University
     linkedIn    : https://www.linkedin.com/in/rickskarbez/
-    twitter     : https://twitter.com/RickSkarbez_LTU    
+    twitter     : https://twitter.com/RickSkarbez_LTU
+  - name  : Jennifer Beaudry
+    image : images/team/Beaudry_MORN_2019.jpg
+    designation : Steering Committee
+    description : Jennifer Beaudry is a Senior Lecturer in Psychology at Swinburne University of Technology. In her capacity as the grad studies coordinator for the School of Health Sciences (Academic Director--Research Training), she is passionate about engaging postgraduate research students and their supervisors in open science. 
+    twitter     : https://twitter.com/drjbeaudry 
+  - name  : Lauryn Hagg
+    image : images/team/LHagg.jpg
+    designation : Steering Committee
+    description : Lauryn is a PhD Student in the School of Psychology at Deakin University. Her work is focussed on understanding exploratory behaviours in young people. 
+    twitter     : https://twitter.com/LaurynHagg
+  - name  : Nick Tierney
+    image : images/team/NTierney.jpg
+    designation : Steering Committee
+    description : Nick Tierney is a Research Fellow in Statistics at Monash University, he focuses on improving workflows to reduce cognitive bottlenecks in data analysis.
+    twitter     : https://twitter.com/nj_tierney 
   - name  : Tom Johnstone
     designation : Steering Committee
     description : Director of Neuroimaging at Swinburne University of Technology
     linkedIn    : https://www.linkedin.com/in/tom-johnstone-083ab72/
     twitter     : https://twitter.com/itjohnstone
-  - name  : Jennifer Beaudry
-    designation : Steering Committee
-    description : Senior Lecturer in the Department of Psychological Sciences, Swinburne University of Technology 
-    twitter     : https://twitter.com/drjbeaudry 
-  - name  : Nick Tierney
-    designation : Steering Committee
-    description : Research Fellow in Econometrics & Business Statistics at Monash University
-    twitter     : https://twitter.com/nj_tierney 
-  - name  : Lauryn Hagg
-    designation : Steering Committee
-    description : PhD Student in the School of Psychology, Deakin University
-    twitter     : https://twitter.com/LaurynHagg
   - name  : Matthew Johnson
     designation : Steering Committee
     description : Senior Analyst at EPA Victoria
