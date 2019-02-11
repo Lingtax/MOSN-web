@@ -49,16 +49,17 @@ members  :
     designation : Steering Committee
     description : Nick Tierney is a Research Fellow in Statistics at Monash University, he focuses on improving workflows to reduce cognitive bottlenecks in data analysis.
     twitter     : https://twitter.com/nj_tierney 
+  - name  : Matthew Johnson
+    image : images/team/MRJ_2008_DSC5800.jpg
+    designation : Steering Committee
+    description : Matthew Johnson is a Senior Analyst at EPA Victoria. As part of EPA's Intelligence and Analysis Team he spends a lot of time ensuring both data and analysis are open, insightful and engaging.
+    linkedIn    : https://www.linkedin.com/in/matthew-johnson-79530a104/
+    twitter     : https://twitter.com/mrjoh3/
   - name  : Tom Johnstone
     designation : Steering Committee
     description : Director of Neuroimaging at Swinburne University of Technology
     linkedIn    : https://www.linkedin.com/in/tom-johnstone-083ab72/
     twitter     : https://twitter.com/itjohnstone
-  - name  : Matthew Johnson
-    designation : Steering Committee
-    description : Senior Analyst at EPA Victoria
-    linkedIn    : https://www.linkedin.com/in/matthew-johnson-79530a104/
-    twitter     : https://twitter.com/mrjoh3/
   - name  : Jaye Weatherburn
     designation : Steering Committee
     description : Data Stewardship Coordinator at The University of Melbourne
